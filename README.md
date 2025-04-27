@@ -38,7 +38,7 @@ Faculty of Computer and Information Sciences, Ain Shams University
 ## 🛠️ Notable Projects
 - **[Mini InstaPay (C# Payment System)](https://github.com/Amrkhaledd13/Mini-InstaPay):** Simulated secure payments using Factory and Observer design patterns.
 - **[Food Calories Recognition App](https://github.com/wantedali/Food_Calories):** Full-stack app for meal image recognition and calorie calculation using Python, .NET, and MongoDB.
-- **Adventure Works OLAP Project:** Built a Data Warehouse, SSAS cubes, and Power BI reports for sales KPIs monitoring.
+- **[Adventure Works OLAP Project](https://www.linkedin.com/feed/update/urn:li:activity:7221255372643192834/):** Built a Data Warehouse, SSAS cubes, and Power BI reports for sales KPIs monitoring.
 - **[Angular Meal Planning App](https://github.com/OmarSaid35/Meal_Planning):** Developed a meal planning web app using Angular and RESTful APIs.
 
 ---
