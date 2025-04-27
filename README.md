@@ -1,6 +1,6 @@
 # Hi, I'm Omar Elsayad 👋
 
-🎓 Senior Computer Science student at Ain Shams University (Expected Graduation: July 2025) | GPA: A−  
+🎓 Senior Computer Science student at Ain Shams University (Expected Graduation: July 2025) 
 🛠️ Passionate about Backend Development, Data Engineering, and Cloud Technologies  
 🚀 Always learning, building, and striving to solve real-world problems with clean and efficient code.
 
