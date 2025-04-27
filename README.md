@@ -18,7 +18,7 @@
 ## 📚 Education
 **Bachelor of Computer Science**  
 Faculty of Computer and Information Sciences, Ain Shams University  
-**Expected Graduation:** July 2025 | **GPA:** A−
+**Expected Graduation:** July 2025 | **GPA:** B
 
 ---
 
