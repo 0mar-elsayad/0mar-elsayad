@@ -1,4 +1,4 @@
-# Hi, I'm Omar Elsayad 👋
+# Hi, I'm Omar Elsayyad 👋
 
 🎓 Senior Computer Science student at Ain Shams University (Expected Graduation: July 2025) 
 🛠️ Passionate about Backend Development, Data Engineering, and Cloud Technologies  
